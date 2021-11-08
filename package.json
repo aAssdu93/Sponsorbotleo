@@ -1,7 +1,7 @@
 
 {
   "name": "music-bot",
-  "main": "index.js",
+  "main": "sponsorbot.js",
   "author": "LightAnime",
   "version": "6.0.0",
 
