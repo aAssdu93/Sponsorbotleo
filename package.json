@@ -14,7 +14,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord-player": "^5.1.0",
+    "fs": "^0.0.1",
     "discord.js": "^13.1.0",
     "ffmpeg-static": "^4.4.0",
     "ms": "^3.0.0-canary.1",
